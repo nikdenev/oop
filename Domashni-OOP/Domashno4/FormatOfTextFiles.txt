@@ -1,0 +1,57 @@
+start to read - (Commander) 
+name (char*)
+age (int)
+fightSkills (int)
+salary (int)
+
+description (char*)
+numberOfMages (int)
+
+start to read - (Mage)   	//Mage 1
+name (char*)
+age (int)
+fightSkills (int)
+salary (int)
+description (char*)
+mana (int)
+
+start to read - (MagicBook) 
+Number of spells (int) 
+
+start to read - (Spell)		//Spell 1
+description (char*)
+type (int)
+castingCost (int)
+
+start to read - (Spell)		//Spell 2
+...
+........
+
+numberOfSergeants (int)
+
+start to read - (Sergeant)	//Sergeat 1
+name (char*)
+age (int)
+fightSkills (int)
+salary (int)
+
+description (char*)
+NumberOfSoldiers (int)
+
+start to read - (Soldier)	//Soldier 1
+name (char*)
+age (int)
+fightSkills (int)
+salary (int)
+
+start to read - (Soldier)	//Soldier 2
+.....
+...........
+
+start to read - (Sergeant)	//Sergeat 2
+...
+...........
+
+start to read - (Mage)   	//Mage 2
+...
+...........

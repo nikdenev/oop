@@ -1,0 +1,99 @@
+The Commander
+55
+100
+500
+Description of the commander
+2
+Mage1
+300
+80
+400
+Description of Mage1
+100
+3
+firestorem
+fire
+60
+obliviate
+others
+50
+fly
+others
+20
+2
+Sergeant1
+40
+50
+200
+Description of Sergeant1
+3
+Soldier1
+20
+20
+100
+Soldier2
+18
+15
+50
+Soldier3
+20
+30
+120
+Sergeant2
+35
+55
+250
+Description of Sergeant2
+1
+Soldier4
+15
+10
+30
+Mage2
+400
+90
+700
+Description of Mage2
+150
+3
+all soldiers die
+fire
+60
+makes soldier cry
+others
+50
+throw chair
+others
+20
+2
+Sergeant3
+50
+50
+220
+Description of Sergeant3
+3
+Soldier5
+25
+15
+100
+Soldier6
+18
+10
+50
+Soldier7
+40
+30
+120
+Sergeant4
+35
+55
+250
+Description of sergeant4
+1
+Soldier8
+15
+10
+30
+
+
+
